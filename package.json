@@ -1,0 +1,16 @@
+{
+  "name": "test-js-senegocia",
+  "version": "1.0.0",
+  "description": "Habilidades JS",
+  "main": "src/index,js",
+  "scripts": {
+    "senegocia": "node src/senegocia/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "JS",
+    "ES6"
+  ],
+  "author": "Karlys Navas",
+  "license": "MIT"
+}
